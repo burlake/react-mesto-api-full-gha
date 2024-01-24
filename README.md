@@ -5,12 +5,12 @@
   
 Пожалуйста, прикрепите в это описание ссылку на сайт, размещенный на Яндекс.Облаке.
 
-Адрес репозитория: https://github.com/...
+[Ссылка на репозиторий](https://github.com/burlake/react-mesto-api-full-gha)
 
 ## Ссылки на проект
 
 IP-адрес x.x.x.x
 
-Frontend https://...
+[Ссылка на репозиторий c Frontend] (https://github.com/burlake/react-mesto-api-full-gha/tree/main/frontend)
 
-Backend https://...
+[Ссылка на репозиторий c Backend] (https://github.com/burlake/react-mesto-api-full-gha/tree/main/backend)
