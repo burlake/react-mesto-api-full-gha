@@ -15,4 +15,4 @@ IP-адрес x.x.x.x
 
 [Ссылка на репозиторий c Backend](https://github.com/burlake/react-mesto-api-full-gha/tree/main/backend)
 
-# for check my settings
+# for checking my settings
