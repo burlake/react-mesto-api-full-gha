@@ -11,9 +11,15 @@ router.get('/crash-test', () => {
     throw new Error('Сервер сейчас упадёт');
   }, 0);
 });
-
 router.use('/signup', signupRouter);
+
+router.get('/crash-test', () => {
+  setTimeout(() => {
+    throw new Error('Сервер сейчас упадёт');
+  }, 0);
+});
 router.use('/signin', signinRouter);
+
 router.use(auth);
 router.use('/users', usersRouter);
 router.use('/cards', cardsRouter);
