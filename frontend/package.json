@@ -18,8 +18,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
-    "deploy1": "npm run build && scp -r ./build/* esburlakova@84.201.165.194:/react-mesto-api-full-gha/frontend"
+    "deploy": "npm run build && scp -r ./build/* esburlakova@84.201.165.194:/home/esburlakova/react-mesto-api-full-gha/frontend"
+  
   },
   "eslintConfig": {
     "extends": [
