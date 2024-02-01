@@ -14,5 +14,3 @@ IP-адрес 84.201.165.194
 [Ссылка на репозиторий c Frontend](https://mesto1.nomoredomainsmonster.ru/)
 
 [Ссылка на репозиторий c Backend](https://api.mesto1.nomoredomainsmonster.ru/)
-
-# for checking my settings
